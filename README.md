@@ -10,6 +10,7 @@ TABLA USADA: productos
 ![image](https://github.com/AriasSuarezDemianAlexander/UIII-Act-5-CRUD-MAESTRO-DETALLE-Y-mvc-tbl-producto/assets/143743142/f7522ea7-5094-4727-9e89-76d7236477c8)
 ![image](https://github.com/AriasSuarezDemianAlexander/UIII-Act-5-CRUD-MAESTRO-DETALLE-Y-mvc-tbl-producto/assets/143743142/d1dad216-fdf8-45fa-8c3d-520b4967d433)
 ![image](https://github.com/AriasSuarezDemianAlexander/UIII-Act-5-CRUD-MAESTRO-DETALLE-Y-mvc-tbl-producto/assets/143743142/b34d0f99-720b-49f4-bd67-59e3ac6b50fb)
+![image](https://github.com/AriasSuarezDemianAlexander/UIII-Act-5-CRUD-MAESTRO-DETALLE-Y-mvc-tbl-producto/assets/143743142/22797846-577a-48a8-8dfb-d6578acb01ba)
 
 
 
